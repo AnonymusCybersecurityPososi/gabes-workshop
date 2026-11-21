@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g-1",
+    "title": "Hollow Knight",
+    "genre": "Metroidvania",
+    "price": 15,
+    "discount": 50,
+    "developer": "Team Cherry",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes."
+  },
+  {
+    "id": "g-2",
+    "title": "Hades",
+    "genre": "Roguelike",
+    "price": 25,
+    "discount": 20,
+    "developer": "Supergiant Games",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+    "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler."
+  },
+  {
+    "id": "g-3",
+    "title": "Disco Elysium",
+    "genre": "RPG",
+    "price": 40,
+    "discount": 0,
+    "developer": "ZA/UM",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg",
+    "description": "A groundbreaking role playing game. You are a detective with a unique skill system at your disposal and a whole city to carve your path across."
+  }
+]
